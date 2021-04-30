@@ -1,0 +1,5 @@
+th {color:white;background-color:steelblue}
+#female .inactive td {background-color:mediumaquamarine}
+#female .active td{background-color:seagreen}
+#male .inactive td {background-color:peru}
+#male .active td {background-color:#a2662a}
